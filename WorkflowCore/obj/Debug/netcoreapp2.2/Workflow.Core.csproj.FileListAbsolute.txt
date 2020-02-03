@@ -1,0 +1,16 @@
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\bin\Debug\netcoreapp2.2\Workflow.Core.deps.json
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\bin\Debug\netcoreapp2.2\Workflow.Core.runtimeconfig.json
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\bin\Debug\netcoreapp2.2\Workflow.Core.runtimeconfig.dev.json
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\bin\Debug\netcoreapp2.2\Workflow.Core.dll
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\bin\Debug\netcoreapp2.2\Workflow.Core.pdb
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\obj\Debug\netcoreapp2.2\Workflow.Core.csprojAssemblyReference.cache
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\obj\Debug\netcoreapp2.2\Workflow.Core.RazorAssemblyInfo.cache
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\obj\Debug\netcoreapp2.2\Workflow.Core.RazorAssemblyInfo.cs
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\obj\Debug\netcoreapp2.2\Workflow.Core.AssemblyInfoInputs.cache
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\obj\Debug\netcoreapp2.2\Workflow.Core.AssemblyInfo.cs
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\obj\Debug\netcoreapp2.2\Workflow.Core.RazorTargetAssemblyInfo.cache
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\obj\Debug\netcoreapp2.2\Workflow.Core.dll
+C:\Users\ariel.hernan.napoli\source\repos\WorkflowCore\WorkflowCore\obj\Debug\netcoreapp2.2\Workflow.Core.pdb
